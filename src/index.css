@@ -1,0 +1,18 @@
+body {
+  background-color: #48A2FF;
+
+}
+
+.jumbotron {
+  background-color: black;
+  color: #FF5850;
+}
+
+.navbar {
+  background-color: #2068B2;
+}
+
+.navbar :hover {
+  color: white;
+
+}
